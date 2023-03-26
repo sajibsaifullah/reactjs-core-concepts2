@@ -32,3 +32,4 @@ JSX =>
 	iii) load data
 	iv) connect with state
 	v) showing using map
+
